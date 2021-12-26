@@ -4,7 +4,7 @@
       <b-container class="bv-example-row">
         <h1 class="uk-link-reset">
           <b-breadcrumb>
-            <b-breadcrumb-item href="#home">
+            <b-breadcrumb-item href="">
               <b-icon icon="house-fill" scale="1.25" shift-v="1.25" aria-hidden="true"></b-icon>
               Blog
             </b-breadcrumb-item>
